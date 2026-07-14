@@ -11,4 +11,4 @@ Computer Science student at the University of Haifa, graduating in September 202
 
 ## Technologies
 
-Python, Java, JavaScript, C/C++, SQL, React, Node.js, Spring Boot, SQLite, MySQL, Git, and Maven.
+Python, Java, JavaScript, SQL, Node.js, Spring Boot,Restful Api, SQLite, MySQL, PostgreSql, Codex, Git.
