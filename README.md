@@ -7,7 +7,7 @@ Computer Science student at the University of Haifa, graduating in September 202
 - [AI Debate Platform](https://github.com/MohammdS/ai-debate-platform) - a tested multi-agent debate system with multiple model providers, live streaming, and reproducible exports.
 - [Talk2Data](https://github.com/MohammdS/NaturalQueryExplorerProject-Tsofen-BackEnd) - a natural-language-to-SQL application designed to share database schemas, not raw user data, with the AI model. [Frontend](https://github.com/MohammdS/NaturalQueryExplorerProject-Tsofen-FrontEnd).
 - [Credit Card Fraud Detection](https://github.com/MohammdS/credit-card-fraud-detection-reproduction) - a reproducible evaluation of fraud-detection models on highly imbalanced transaction data.
-- [3D ASCII Logo Renderer](https://github.com/MohammdS/haifa-logo-ascii-3d) - a browser-based JavaScript point-cloud renderer and editor.
+- [ASCII Point Cloud Studio](https://github.com/MohammdS/ascii-point-cloud-studio) - a reusable browser-based renderer and editor for animated 3D ASCII point clouds.
 
 ## Technologies
 
